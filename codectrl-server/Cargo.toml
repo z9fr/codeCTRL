@@ -38,7 +38,7 @@ tokio-stream = "0.1"
 tonic = "0.7"
 tonic-web = "0.3.0"
 uuid = { version = "1.1.2", features = ["v4", "fast-rng", "macro-diagnostics"] }
-warp = "0.3.2"
+warp = "0.3.3"
 
 [[bin]]
 path = "bin/standalone.rs"
